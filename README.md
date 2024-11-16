@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi Friends 👋! </h2>
  <h2 align="left"> My name is Parthasarathi and I'm a Student from MIT</h2>
 
@@ -44,7 +45,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
