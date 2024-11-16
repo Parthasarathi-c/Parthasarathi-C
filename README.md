@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 I’m astudent 
-##🌱 I’m currently learning javaScript
+🌱 I’m currently learning javaScript
 ## 👯 I’m looking to collaborate on new projects
 ## 📫 How to reach me (Gmail) : cparthasarathi2023@gmail.com 
 ⚡ fact : I'm new to git ..
