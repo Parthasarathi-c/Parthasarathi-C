@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi Friends 👋! </h2>
+<h2 align="left"></h2>
  <h2 align="left"> My name is Parthasarathi and I'm a Student from MIT</h2>
 
 ###
